@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Hackaton\Hackaton\bin\Debug\Hackaton.exe.config
+C:\Users\user\source\repos\Hackaton\Hackaton\bin\Debug\Hackaton.exe
+C:\Users\user\source\repos\Hackaton\Hackaton\bin\Debug\Hackaton.pdb
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.Form1.resources
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.Properties.Resources.resources
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.exe
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.pdb
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.Form2.resources
+C:\Users\user\source\repos\Hackaton\Hackaton\obj\Debug\Hackaton.Admin.resources
